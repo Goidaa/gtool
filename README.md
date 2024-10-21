@@ -23,4 +23,4 @@
 
 ```bash
 cd gtool
-python script.py
+python main.py
