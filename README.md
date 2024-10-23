@@ -4,6 +4,7 @@
 
 - Python 3.x
 - Telegraph
+- Colorama
 
 ## Installation
 
@@ -13,10 +14,11 @@
     git clone https://github.com/goidaa/telegraph-flooder.git
     ```
 
-2. Install the required dependencies:
+2. Install the required modules:
 
     ```bash
     pip install telegraph
+    pip install colorama
     ```
 
 ## Usage
