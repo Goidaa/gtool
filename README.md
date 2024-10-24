@@ -28,5 +28,4 @@ cd telegraph-flooder
 python main.py!
 ```
 ## It works!
-https://github.com/user-attachments/assets/247c2718-b266-4343-bc80-a0eba11dcdc2
-
+![Gif image](https://github.com/user-attachments/assets/ed665080-b2df-47be-b15a-06c1fe59d5db)
