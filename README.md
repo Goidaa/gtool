@@ -25,7 +25,7 @@
 
 ```bash
 cd telegraph-flooder
-python main.py!
+python main.py
 ```
 ## It works!
 ![Gif image](https://github.com/user-attachments/assets/ed665080-b2df-47be-b15a-06c1fe59d5db)
